@@ -53,7 +53,7 @@ img:hover {
   grid-template-rows: 1fr 1fr 1fr;
 }
 
-.small, .medium, .large {
+.small {
   grid-column-start: auto;
   grid-column-end: auto;
   grid-row-start: auto;
